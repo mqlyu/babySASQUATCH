@@ -1,0 +1,8 @@
+sign up for a github account then send Desmond your ID
+
+
+in your web browser, go to:
+https://github.com/djo155/babySASQUATCH
+
+to upload code, you may want to make plain text (Format drop down in Mac Text Edit) first.  Then, just below and to the right of the babySASQUATCH name, push the Upload files button.
+
