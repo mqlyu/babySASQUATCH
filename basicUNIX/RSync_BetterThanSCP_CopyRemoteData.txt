@@ -1,0 +1,3 @@
+Sample Rsync (do NOT copy over permissions; human readable, recursive)
+
+rsync -rvh desmondo@171.65.126.137:/Volumes/Smurf-Village/Imaging/BRAINS/TMS/day_2/fMRI_denoised/Results/Apr15 /Users/oathes/DesWork/EtkinLabWork/TMS_BRAINS/RIFG_TMS  
