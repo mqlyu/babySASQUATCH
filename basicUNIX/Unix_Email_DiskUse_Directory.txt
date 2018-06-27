@@ -1,0 +1,16 @@
+echo "Message Body" | mail -s "SubjectLine" YourEmail@gmail.com
+
+e.g.
+
+>>
+
+du -sh . | mail -s "fALFF Dir Size" YourEmail@gmail.com
+
+
+#Will send disk use (directory size) for current directory!
+
+du -sh /data/jag/cnds/XX/ | mail -s “XX size on CNDS jag" YourEmail@gmail.com
+
+#Will send disk use for XX (human readable)
+
+#Separate email addresses by commas if you want to send to multiple people
