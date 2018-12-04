@@ -1,9 +1,9 @@
-# Folder containing items from MRIcroGl presentation by Matt Flounders
+Folder containing items from babySASQUATCH presentation about MRIcroGL on 11/21/2018
 
 Files:
-- PPT
+- PPT in /babySASQUATCH
 
-Scripts:
+Template scripts:
 - MWF_2overlay.pas
 - MWF_2overlay_mosaic.pas
 - MWF_3Drender.pas
