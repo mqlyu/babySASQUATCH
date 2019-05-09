@@ -2,12 +2,12 @@
 
 aka **S**hort **A**ttention **S**pan **Q**uantitative stuff yo**U** **A**dmire **T**hat **C**an **H**elp the rest of us
 
-![cnds.jpg](cnds.jpg)
-
 ### Description
 babySASQUATCH is hosted by the [Oathes Lab](https://www.med.upenn.edu/oatheslab/) and [CNDS](https://www.med.upenn.edu/cnds/) at UPenn in the Richards Research Building, Room C301. The meeting is often held on the first wednesday of each month and focused on implementation, not theory or background. It involves demos and discussion, then relevant code is placed here on the GitHub repo. 
 
 If you don't have access yet, request it by sending your GitHub username to Dr. Desmond Oathes with a request for [SASQUATCH](https://github.com/djo155/SASQUATCH) or [babySASQUATCH](https://github.com/djo155/babySASQUATCH) access. 
+
+![cnds.jpg](cnds.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -16,9 +16,9 @@ If this is your first time using Github, try following this 5 minute [tutorial](
 
 ### Uploading:
 1. Create a new folder and README
-  - Click "Create new file" > in the "Name your file..." text field enter name of new folder ending it with "/" > a new text field will pop up and name that README.md 
-  - Within "Edit new file" window, add some information about the files you are about to contribute. You will be able to edit this later too. Review formatting tips below to add links, images, or headers.
-  - Commit new file directly to master branch, including helpful name and brief description (optional, default is fine)
+    - Click "Create new file" > in the "Name your file..." text field enter name of new folder ending it with "/" > a new text field will pop up and name that README.md 
+    - Within "Edit new file" window, add some information about the files you are about to contribute. You will be able to edit this later too. Review formatting tips below to add links, images, or headers.
+    - Commit new file directly to master branch, including helpful name and brief description (optional, default is fine)
 2. Prepare your code if needed by making it plain text (e.g. format drop down in Mac Text Edit or Windows Wordpad) 
 3. Within your new folder, choose "Upload Files" then drag and drop as needed
 4. Commit changes directly to master branch
