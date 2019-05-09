@@ -2,8 +2,10 @@
 
 aka **S**hort **A**ttention **S**pan **Q**uantitative stuff yo**U** **A**dmire **T**hat **C**an **H**elp the rest of us
 
+![cnds.jpg](https://github.com/djo155/babySASQUATCH/cnds.jpg)
+
 ### Description
-babySASQUATCH is hosted by the [Oathes Lab](https://www.med.upenn.edu/oatheslab/) at UPenn in the Richards Research Building, Room C301. The meeting is often held on the first wednesday of each month and focused on implementation, not theory or background. It involves demos and discussion, then relevant code is placed here on the GitHub repo. 
+babySASQUATCH is hosted by the [Oathes Lab](https://www.med.upenn.edu/oatheslab/) and [CNDS](https://www.med.upenn.edu/cnds/) at UPenn in the Richards Research Building, Room C301. The meeting is often held on the first wednesday of each month and focused on implementation, not theory or background. It involves demos and discussion, then relevant code is placed here on the GitHub repo. 
 
 If you don't have access yet, request it by sending your GitHub username to Dr. Desmond Oathes with a request for [SASQUATCH](https://github.com/djo155/SASQUATCH) or [babySASQUATCH](https://github.com/djo155/babySASQUATCH) access. 
 
