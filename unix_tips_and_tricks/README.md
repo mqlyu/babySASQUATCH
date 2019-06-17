@@ -1,0 +1,1 @@
+Attached is the powerpoint presentation that Darsol gave on 6/12/19 on unix tips and tricks. You can also find it here: https://docs.google.com/presentation/d/1bl8CN5wN33MrmAbiIi_VzhqvB4BZAfK68bVosDWIH7o/edit?usp=sharing
