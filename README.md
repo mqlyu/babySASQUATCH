@@ -3,7 +3,7 @@
 aka **S**hort **A**ttention **S**pan **Q**uantitative stuff yo**U** **A**dmire **T**hat **C**an **H**elp the rest of us
 
 ### Description
-babySASQUATCH is hosted by the [Oathes Lab](https://www.med.upenn.edu/oatheslab/) and [CNDS](https://www.med.upenn.edu/cnds/) at UPenn in the Richards Research Building, Room C301. The meeting is often held on the first wednesday of each month and focused on implementation, not theory or background. It involves demos and discussion, then relevant code is placed here on the GitHub repo. 
+babySASQUATCH is hosted by the [Oathes Lab](https://www.med.upenn.edu/oatheslab/) and [CNDS](https://www.med.upenn.edu/cnds/) at UPenn in the Richards Research Building, Room C301. The meeting is often held on the *second wednesday of each month* and focused on implementation, not theory or background. It involves demos and discussion, then relevant code is placed here on the GitHub repo. 
 
 If you don't have access yet, request it by sending your GitHub username to Dr. Desmond Oathes with a request for [SASQUATCH](https://github.com/djo155/SASQUATCH) or [babySASQUATCH](https://github.com/djo155/babySASQUATCH) access. 
 
@@ -25,6 +25,8 @@ If this is your first time using Github, try following this 5 minute [tutorial](
   - Insert helpful name (e.g. "initial upload, YourTopic MeetingDate") and a brief description for this commmit 
 
 This can all be accomplished via the command line interface for git and github. There are various resources on the web [example](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners).
+
+_________________________________________________________________________________________________________
 
 ## Formatting Tips for README.md files
 When uploading your meeting slides and code, please generate a new folder and include a README.md file. This will automatically provide a high-level overview of you meeting contents for users and should function like a brief documentation page. 
